@@ -4,11 +4,11 @@
 * [Active Directory Home Lab](https://github.com/Dash-Colette/ActiveDirectoryLab/)
 
 ## Certifications
-[A+ certified](https://www.credly.com/badges/21393e20-d669-495f-b95e-1dd84b1501c4/public_url) 
+* [A+ certified](https://www.credly.com/badges/21393e20-d669-495f-b95e-1dd84b1501c4/public_url) 
 
-[Network+ Certified](https://www.credly.com/badges/f9624ae8-70a9-4183-a3c5-8470f24f0806/public_url) 
+* [Network+ Certified](https://www.credly.com/badges/f9624ae8-70a9-4183-a3c5-8470f24f0806/public_url) 
 
-[CIOS Certified](https://www.credly.com/badges/7d413f7c-6f48-46ae-afa2-c9fc8150717b/public_url)
+* [CIOS Certified](https://www.credly.com/badges/7d413f7c-6f48-46ae-afa2-c9fc8150717b/public_url)
 
 <!--
 **Dash-Colette/Dash-Colette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
