@@ -1,5 +1,8 @@
 # Hello there 👋 I'm David
 
+## Projects
+* Active Directory Home Lab (https://github.com/Dash-Colette/ActiveDirectoryLab/)
+
 ## Certifications
 A+ certified: https://www.credly.com/go/cR5S4stlhibkZUwuBhR6DA
 
