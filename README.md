@@ -1,10 +1,10 @@
 # Hello there 👋 I'm David
 
 ## Projects
-* Active Directory Home Lab (https://github.com/Dash-Colette/ActiveDirectoryLab/)
+* [Active Directory Home Lab] (https://github.com/Dash-Colette/ActiveDirectoryLab/)
 
 ## Certifications
-A+ certified: https://www.credly.com/go/cR5S4stlhibkZUwuBhR6DA
+[A+ certified] (https://www.credly.com/go/cR5S4stlhibkZUwuBhR6DA)
 
 <!--
 **Dash-Colette/Dash-Colette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
